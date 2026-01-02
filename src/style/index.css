@@ -1,0 +1,15 @@
+@import "tailwindcss";
+:root{
+  --primary-offwhite: #f1f1f0;
+  --primary-gray: #8f8f8f;
+  --primary-black: #111;
+  --secondary-black: #212529;
+  --header-font: "Marcellus";
+}
+body{
+  font-family: "Jost", "Roboto" ,sans-serif;
+  background-color: var(--primary-offwhite)
+}
+button{
+  cursor: pointer;
+}
